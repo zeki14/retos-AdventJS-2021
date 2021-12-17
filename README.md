@@ -6,3 +6,5 @@ creado y promovido por Midudev.
 3. El grinch quiere fastidiar la navidad. 😈
 4. ¡Es hora de poner la navidad en casa! 🎄
 5. Contando los días para los regalos 🎁
+6. Rematando los examenes finales 📚
+7. Buscando en el almacén 🧰
