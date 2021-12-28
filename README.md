@@ -8,3 +8,4 @@ creado y promovido por Midudev.
 5. Contando los días para los regalos 🎁
 6. Rematando los examenes finales 📚
 7. Buscando en el almacén 🧰
+8. La locura delas criptomonedas 💰💰💰
