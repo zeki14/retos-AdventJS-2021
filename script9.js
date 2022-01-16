@@ -1,16 +1,9 @@
 function groupBy(collection, it) {
-    const groupByObject = new Map()
-      
-   collection.forEach(val =>{
-     let key = typeof(it) === 'function' ? it(val) : val[it];
-     let value = groupByObject.get(key) || [];
-     groupByObject.set(key, [...value, val])
-
-   })
-
-    return groupByObject
-  }
-
-
- console.log(groupBy([6.1, 4.2, 6.3], Math.floor)); 
-
+  return collection.reduce( (obj, item) => {
+    let index = typeof it === "function" ? it(item) : item[it] // El index cambia según el tipo de criterio que se recibe
+    return { 
+      ...obj,
+      [index]: [...(obj[index] || []), item]
+    }; // Devolver objeto añadiendo los resultados anteriores
+  }, {})
+}
