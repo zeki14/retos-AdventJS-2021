@@ -9,3 +9,5 @@ creado y promovido por Midudev.
 6. Rematando los examenes finales 📚
 7. Buscando en el almacén 🧰
 8. La locura delas criptomonedas 💰💰💰
+9. Agrupando cosas automáticamente
+10.  La maquina de cambio
